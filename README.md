@@ -1,4 +1,4 @@
-# Ted Talk Recommender
+# Ted Talk Recommender!
 
 Order of the files: (keep reading for descriptions) 
 
